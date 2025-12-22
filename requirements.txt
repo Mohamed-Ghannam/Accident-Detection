@@ -3,4 +3,5 @@ opencv-python
 numpy
 requests
 cvzone
+streamlit
 
